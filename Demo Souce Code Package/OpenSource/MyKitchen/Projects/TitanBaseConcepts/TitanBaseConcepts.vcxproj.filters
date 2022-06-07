@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="MyCamera">
+      <UniqueIdentifier>{239c4345-30cd-41d9-98c2-dfbc40055b5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyConsole">
+      <UniqueIdentifier>{129145ed-5274-49b6-949e-a7fd629b64a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyObject">
+      <UniqueIdentifier>{426f6eaf-affe-4205-aca8-7928907cfbc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyScene">
+      <UniqueIdentifier>{1fa64828-73c0-4ac0-ae93-cc51c7f548bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyLight">
+      <UniqueIdentifier>{c9236628-412e-478b-9adf-63049aaa196d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyDoor">
+      <UniqueIdentifier>{6daf88ab-345c-41a3-873a-addfdaeb0c3b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\MyConsole\MyConsole.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsole_Simulation.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsole_Video.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyObject\MyObject.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyObject\MyObject_Simulation.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyObject\MyObject_Video.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsole_State.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyObject\MyObject_Inst.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyObject\MyObject__Do.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyObject\MyObject_State.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyCamera\MyCamera_Inst.cpp">
+      <Filter>MyCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyCamera\MyCamera_Simulation.cpp">
+      <Filter>MyCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyCamera\MyCamera_State.cpp">
+      <Filter>MyCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyCamera\MyCamera_Video.cpp">
+      <Filter>MyCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyCamera\MyCamera.cpp">
+      <Filter>MyCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyObject\MyObject_Haptics.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyObject\MyObject__Be.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyCamera\MyCamera__Do.cpp">
+      <Filter>MyCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyCamera\MyCamera__Be.cpp">
+      <Filter>MyCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsole__Be.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsole__Do.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyCamera\MyCamera_Haptics.cpp">
+      <Filter>MyCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsole_Haptics.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsole_Inst.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyScene\MyScene__Be.cpp">
+      <Filter>MyScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyScene\MyScene__Do.cpp">
+      <Filter>MyScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyScene\MyScene_State.cpp">
+      <Filter>MyScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyScene\MyScene.cpp">
+      <Filter>MyScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyScene\MyScene_Inst.cpp">
+      <Filter>MyScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyLight\MyLight.cpp">
+      <Filter>MyLight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyLight\MyLight__Be.cpp">
+      <Filter>MyLight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyLight\MyLight__Do.cpp">
+      <Filter>MyLight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyLight\MyLight_Inst.cpp">
+      <Filter>MyLight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyLight\MyLight_Simulation.cpp">
+      <Filter>MyLight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyLight\MyLight_State.cpp">
+      <Filter>MyLight</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyDoor\MyDoor.cpp">
+      <Filter>MyDoor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyDoor\MyDoor__Be.cpp">
+      <Filter>MyDoor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyDoor\MyDoor__Do.cpp">
+      <Filter>MyDoor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyDoor\MyDoor_Inst.cpp">
+      <Filter>MyDoor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyDoor\MyDoor_Simulation.cpp">
+      <Filter>MyDoor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyDoor\MyDoor_State.cpp">
+      <Filter>MyDoor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyScene\MyScene_Video.cpp">
+      <Filter>MyScene</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsoleEditor_Internal.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\MyConsole\MyConsoleEditor.cpp">
+      <Filter>MyConsole</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\MyConsole\MyConsole.h">
+      <Filter>MyConsole</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\MyObject\MyObject.h">
+      <Filter>MyObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\MyCamera\MyCamera.h">
+      <Filter>MyCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\MyScene\MyScene.h">
+      <Filter>MyScene</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\MyLight\MyLight.h">
+      <Filter>MyLight</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\MyDoor\MyDoor.h">
+      <Filter>MyDoor</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+# This is the manifest loaded on behalf of the kitchen demo. This file is processed one line at a time by Atlas.
+# Lines starting with the pound sign '#' are not processed
+
+# Learn a new application window concept from interpretation file MyWindow/MyWindow.I in the KB/Concepts folder 
+/Learn "Window" "MyWindow/MyWindow" "MyWindow"
+
+# Learn a new text console concept from interpretation file MyConsole/MyConsole.I in the KB/Concepts folder 
+/Learn "Console" "MyConsole/MyConsole" "MyConsole"
+
+# Learn a new camera concept from interpretation file MyCamera/MyCamera.I in the KB/Concepts folder 
+/Learn "Camera" "MyCamera/MyCamera" "MyCamera"
+
+# Learn a new scene concept from interpretation file MyScene/MyScene.I in the KB/Concepts folder 
+/Learn "Scene" "MyScene/MyScene" "MyScene"
+
+# Learn a new generic object concept from interpretation file MyObject/MyObject.I in the KB/Concepts folder 
+/Learn "Object" "MyObject/MyObject" "MyObject"
+
+# Learn a new light concept from interpretation file MyLight/MyLight.I in the KB/Concepts folder 
+/Learn "Light" "MyLight/MyLight" "MyLight"
+
+# Learn a new door concept from interpretation file MyDoor/MyDoor.I in the KB/Concepts folder 
+/Learn "Door" "MyDoor/MyDoor" "MyDoor"

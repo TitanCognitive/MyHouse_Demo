@@ -1,0 +1,8 @@
+# This is the script of the Kitchen scene. This file is processed one line at a time by Atlas.
+# Line starting withe pound sign '#' are not processed
+
+# Load the scene (using MyScene concept)
+recall scene
+
+# Select Cam1 (instance of a MyCamera loaded by the scene); also available are Cam2, Cam3, Cam4
+select Cam1

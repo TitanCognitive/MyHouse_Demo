@@ -1,0 +1,19 @@
+# Copyright (c) 2019 Titan Virtual Corp. All rights reserved.
+
+# Model Name(s)
+   Name "raw egg; raw food; food; uncooked egg; uncooked food; egg"
+
+# Model Mesh(es)
+   Mesh "SIM\Kitchen\Assets\Meshes\CrackedEgg"
+
+# Model Texture(s)
+   Texture "SIM\Kitchen\Assets\Textures\FriedEgg"
+
+# Model mesh scale factor (0.0: default)
+   Scale 0.0
+
+# Model offset
+   Translate 0.0 0.0 0.0
+
+# Maximum number of instances allowed for this model
+   Instances 2

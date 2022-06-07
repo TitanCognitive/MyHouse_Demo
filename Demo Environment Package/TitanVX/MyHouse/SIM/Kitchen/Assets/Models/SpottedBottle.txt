@@ -1,0 +1,19 @@
+# Copyright (c) 2019 Titan Virtual Corp. All rights reserved.
+
+# Model Name(s)
+   Name "bottle; container; spotted bottle; drinking bottle; liquid container"
+
+# Model Mesh(es)
+   Mesh "SIM\Kitchen\Assets\Meshes\SpottedBottle"
+
+# Model Texture(s)
+   Texture "SIM\Kitchen\Assets\Textures\Pointalism"
+
+# Model mesh scale factor (0.0: default)
+   Scale 0.0
+
+# Model offset
+   Translate 0.0 0.0 0.0
+
+# Maximum number of instances allowed for this model
+   Instances 10

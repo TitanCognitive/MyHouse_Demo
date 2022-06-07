@@ -1,0 +1,19 @@
+# Copyright (c) 2019 Titan Virtual Corp. All rights reserved.
+
+# Model Name(s)
+   Name "kitchen table; dining table"
+
+# Model Mesh(es)
+   Mesh "SIM\Kitchen\Assets\Meshes\WoodenTable"
+
+# Model Texture(s)
+   Texture "SIM\Kitchen\Assets\Textures\BrownFiber"
+
+# Model mesh scale factor (0.0: default)
+   Scale 0.0
+
+# Model offset
+   Translate 0.0 0.0 0.0
+
+# Maximum number of instances allowed for this model
+   Instances 6

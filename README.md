@@ -1,7 +1,7 @@
 <p align="center"><img src="titan_logo.png" alt="" /></p>
 
 [<img src= "https://img.youtube.com/vi/lOdbLEy4al4/maxresdefault.jpg" width="100%">](https://youtu.be/lOdbLEy4al4)
-<h3 align="center"><a href="https://www.titanvx.com/demo">Learn more about Atlas Language-Driven Spatial Reasoning</a></h3>
+<h3 align="center"><a href="https://www.titanvx.com/demo">Learn more about Language-Driven Spatial Reasoning</a></h3>
 <br>
 <h1 id="myhousedemo">MyHouse Demo</h1>
 

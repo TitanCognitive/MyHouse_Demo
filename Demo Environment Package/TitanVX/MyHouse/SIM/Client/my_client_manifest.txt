@@ -1,6 +1,0 @@
-# This is the manifest loaded on behalf of MyClient. This file is processed one line at a time by Atlas.
-# Lines starting with the pound sign '#' are not processed
-
-# Learn a new client concept (for Willie) from interpretation file MyClient/MyClient.I in the KB/Concepts folder 
-/Learn "Client" "MyClient/MyClient" "MyClient"
-

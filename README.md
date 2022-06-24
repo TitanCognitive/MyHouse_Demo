@@ -8,7 +8,7 @@
 <p>Copyright (c) 2022 Titan Virtual Corp.<br />
 <a href="https://www.titanvx.com">www.titanvx.com</a></p>
 <hr />
-<p>The <em>MyHouse Demo </em> release v004 includes: </p>
+<p>The <em>MyHouse Demo </em> release Beta v004 includes: </p>
 <ul>
 <li>Atlas Documentation</li>
 <li>Demo Environment Package</li>
